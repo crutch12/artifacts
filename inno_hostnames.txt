@@ -1,3 +1,6 @@
+// inno
+mail.inno.tech
+
 // sfera
 sfera.inno.local
 git.sfera.inno.local
